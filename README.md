@@ -1,5 +1,3 @@
-Please don't read 'README'...
+README
 
-
-
-LOL
+Some files is no LTS. 
